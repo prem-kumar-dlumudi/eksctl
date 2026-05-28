@@ -6,7 +6,7 @@ kind: ClusterConfig
 metadata:
   name: roboshop1
   region: us-east-1
-
+  
 managedNodeGroups:
   - name: spot
     instanceTypes:
